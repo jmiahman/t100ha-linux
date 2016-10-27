@@ -141,6 +141,10 @@ Still, there are some issues:
 
 - Sound: Not working this way, but also called fixable.
 
+- Touchpad: Working, with Kernel patch
+
 - Bluetooth: Not tested.
 
 - Cameras: Not working.
+
+- TouchScreen: Not tested
